@@ -1,0 +1,15 @@
+{
+  "name": "primeira-aula",
+  "version": "1.0.0",
+  "description": "projeto para treinar e inicicar no node",
+  "main": "index.js",
+  "scripts": {
+    "principal":"node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript;node"
+  ],
+  "author": "david mateus",
+  "license": "ISC"
+}
